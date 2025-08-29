@@ -52,7 +52,7 @@ Enter the network interface (use dumpcap -D to list)
 Enter capture duration in seconds (default: 30)
 
 ## Project Structure
-```text
+
 network-recon-tool/
 ├── recon.py                # Main script
 ├── captures/               # Generated PCAP files
